@@ -4,7 +4,6 @@ using Microsoft.Extensions.DependencyInjection;
 
 using R5T.Caledonia;
 using R5T.Caledonia.Default;
-using R5T.Glyfada;
 using R5T.Glyfada.Default;
 using R5T.Nikaia;
 using R5T.Nikaia.Configuration;
