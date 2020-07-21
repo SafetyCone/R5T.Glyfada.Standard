@@ -17,7 +17,6 @@ namespace R5T.Glyfada.Standard
         {
             services
                 .AddSingleton<IGitOperator, GitOperator>()
-                .AddSingleton<IGitOperatorCore, GitOperatorCore>()
                 .AddSingleton<IGitExecutableFilePathProvider, GitExecutableFilePathProvider>()
                 .AddGitConfiguration()
                 .AddSingleton<ICommandLineInvocationOperator, DefaultCommandLineInvocationOperator>()
