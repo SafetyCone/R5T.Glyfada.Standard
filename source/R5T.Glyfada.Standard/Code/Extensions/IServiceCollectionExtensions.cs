@@ -7,7 +7,6 @@ using R5T.Caledonia.Default;
 using R5T.Glyfada.Default;
 using R5T.Nikaia;
 using R5T.Nikaia.Configuration;
-using R5T.Nikaia.Configuration.Suebia;
 
 
 namespace R5T.Glyfada.Standard
